@@ -1,0 +1,31 @@
+Github
+
+- Porquê é relevante na sua carreira, significados/origem: 
+	O Github serve para fazer correções, e fazer várias copias e versões do seu código
+	Git: versionamento de código distribuído
+	Foi criado para desenvolver o Linux, que foi um software criado de forma colaborativa
+	Github: guarda esses códigos, repositório online 
+
+- Beneficios:
+	Armazenamento em nuvem
+	Controle de versão
+	Incentiva o trabalho em equipe
+	Ajuda a melhorar do código
+	Reconhecimento pelo seu trabalho
+
+- Comandos essenciais (prompt de comando (CMD)):
+	Dir = mostra os diretórios do PC 
+	Change directory (cd) = permite navegar pelas páginas 
+	Limpar a tela: clear scream = cls
+	Tab = completa comandos 
+	Criar directory : make directory : mkdir 
+	Criar arquivos: echo (nome da pasta) > (nome da pasta).txt
+	Apagar arquivos: del (repositório ou pasta) 
+		**se pôr o repositório vai apagar todos os arquivos de dentro dele, mas o repositório continua 
+	Atalho (seta p/ cima): encontrar comandos já utilizados 
+	Remover diretório = rmdir workspace /S /Q
+
+- Como o Git funciona:
+	SHAU1 – Algoritimo de computação (hash), devolve uma assinatura de 40 digitos 
+	Objetos do GIT:  BLOBS (os arquivos ficam guardados dentro desse objeto), TREES(Armazena BLOBS/COMMITS, e seus 	nomes, e aponta), COMMITS (Junta tudo, aponta para diversos endereços)
+	Git é um sistema distribuído seguro justamente por essa estrutura, os commits são praticamente impossíveis de 	ser alterados, todas as versões em outras máquinas podem ser mantidas.

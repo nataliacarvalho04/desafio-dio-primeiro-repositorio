@@ -1,0 +1,83 @@
+Projetos ágeis com SCRUM
+
+
+- Modelo tradicional(waterfall) X modelo ágil (Scrum)
+	Waterfall:
+		Escopo definido no inicio
+		Perda de energia e tempo
+		Definido por fases
+		Feedbacks só no final
+		Resistência a mudanças
+	Scrum
+		Escopo definido ao longo do projeto
+		Definido por funcionalidades
+		Feedbacks constantes
+		Adepto a mudanças 
+
+obs:•	O tradicional (cascata ou waterfall) demanda muita energia e muito se perde, por isso os feedbacks só ao final podem alterar muito o custo do software.
+
+
+- Pilares do modelo ágil
+	Fazer coisas complexas de forma simples
+	Rapidez e desembaraço
+	Equipe comprometida
+	Maior valor para o cliente
+
+
+- Pilares do Scrum (Transparência, adaptação, inspersão)
+	• Scrum é um framework de gerenciamento de projetos ágeis 
+	• Equipes pequenas 
+	• Pessoas comprometidas e unidas 
+	• Demostrar feedbacks constantes ao cliente
+	• Requisitos mudam com o tempo
+	• Aprender progressivamente 
+
+- Vantagens de se utilizar o Scrum
+	Desenvolvido e entregue em partes menores (2 a 4 meses)
+	Melhor gerenciamento de riscos (Escopo e backlog de curta duração e priorizados)
+	Aprendizados (Reuniões)
+	As Startups trabalham muito com MVPs e os produtos ágeis são ideais para eles
+
+- Vantagens nos Times
+•	Equipes capazes de se auto-organizarem
+•	Todos são responsáveis
+•	Forte comprometimento com resultados 
+•	Papeis e responsabilidades 
+
+PO – product owner (dono do produto)
+Áreas de negócio, uma única pessoa, define as funcionalidades do software(backlog);
+
+Scrum master – SM, garante que as cerimonias aconteçam, facilitador, auxilia a remover problemas, treina o time para ser autossuficiente;
+
+DEVs - Times de desenvolvimentos (3 a 9 pessoas), possuem várias habilidades, desenvolver, testar, criar e desenhar, tudo que é necessário para o desenvolvimento do software.
+
+
+-  Fundamentos do papel do PO
+
+	# Papeis e responsabilidades do product owner – PO
+
+	o Profissional que a visão do que será definido, as necessidades que serão atendidas e o público que vai 		utilizar;
+
+	o Define a ordem em que as atividades serão desenvolvidas e valida as funcionalidades, também é responsável 		por cancelar a sprint no pior dos casos;
+
+	o Define as funcionalidades (Product backlog);
+
+	o Traz o maior valor possível para o produto;
+
+	o Participação obrigatório em planning e review;
+
+	o O ideal é que o PO não espere o Review para ficar a par do projeto e participe de outras reuniões;
+
+	o Refining, os devs podem questionar as funcionalidades ao PO, nessa reunião podem comparecer stakeholders;
+
+	o O PO tem que criar e ler as histórias da forma mais clara possível na primeira parte da refining, na segunda 	parte o ideal é que o PO não participe, a equipe escreve ao lado o que deverá ser feito para considerar a 	história feita;
+
+	o Com as histórias mapeadas se define o Sprint backlog, nesse o PO define qual dos itens é considerado mais 	prioritário, é considerado o objetivo principal da sprint, sem ele todo o resto não faz sentido.
+
+
+- Release planning
+
+	• Definição: Release planning, quando ocorre a liberação do software, não é necessário fazer uma a cada final de sprint, mas o ideal é não deixar acumular pois pode aumentar problemas durante o Merge (junção dos códigos fontes de cada sprint) e também o tempo de teste.
+
+
+
